@@ -13,7 +13,7 @@ public class Main {
         System.out.println("========================================");
 
         do {
-            System.out.println("\n1. Book a Resource");
+            System.out.println("1. Book a Resource");
             System.out.println("2. View All Reservations");
             System.out.println("3. Exit");
             System.out.print("Select an option (1-3): ");
